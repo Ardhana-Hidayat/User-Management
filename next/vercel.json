@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      {
+        "source": "/users/(.*)",
+        "destination": "http://localhost:5000/users"
+      }
+    ]
+  }
+  
